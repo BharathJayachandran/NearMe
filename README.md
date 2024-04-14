@@ -32,7 +32,7 @@ map.html
 </head>
 <body>
     <h1 align="center" bgcolor="Violet">NELLORE</h1>
-    <h2 align="center" bgcolor="Violet">DAPPILI VASAVI(212223040030)</h2>
+    <h2 align="center" bgcolor="Violet">BHARATH J</h2>
     <img src="Nellore.png.png" usemap="#image-map">
 
 <map name="image-map">
